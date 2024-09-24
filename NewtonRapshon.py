@@ -15,5 +15,3 @@ def Xn1(xn1, n):
         xn1 = xi - (fxn / dfxn)
         X.append(xn1)
         i += 1
-        #print(f"When the {i} iteration the root is: {xn1}")
-
